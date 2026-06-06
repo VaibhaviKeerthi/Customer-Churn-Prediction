@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Prediction",
+  "description": "Predict customer churn probability and analyze risk patterns using interactive behavioral analytics and Gemini-powered factor explanation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
